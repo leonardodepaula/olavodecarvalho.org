@@ -1,0 +1,7 @@
+beautifulsoup4
+httpx
+pandas
+tabulate
+trafilatura
+pyarrow
+PyMuPDF
